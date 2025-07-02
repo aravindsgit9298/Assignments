@@ -1,6 +1,6 @@
-package assignments;
+package assignments.assignment2;
 
-public class Assignment2 {	
+public class Array {	
 
 
 	public static void main(String[] args) {

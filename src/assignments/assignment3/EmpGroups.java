@@ -1,4 +1,4 @@
-package assignments;
+package assignments.assignment3;
 
 public class EmpGroups {
 

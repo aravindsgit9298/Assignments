@@ -1,6 +1,6 @@
-package assignments;
+package assignments.assignment1;
 
-public class Assignment1 {
+public class DataTypes {
 
 
 	/***Assignment 1 – Data Types***/
@@ -71,7 +71,7 @@ public class Assignment1 {
 
 	public static void main(String[] args) {
 
-		Assignment1 assignment = new Assignment1();
+		DataTypes assignment = new DataTypes();
 
 		System.out.println("1. Temperature of a city in degrees Celsius: "+ assignment.tempDegree);
 		System.out.println("2. Whether a customer has placed an order: "+ assignment.customerOrderYes +" or " + assignment.customerOrderNo);
