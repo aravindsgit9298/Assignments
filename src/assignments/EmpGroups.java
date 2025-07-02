@@ -11,12 +11,12 @@ public class EmpGroups {
 		String[] empNames = new String[3];
 		int[] empIds = new int[3];
 
-		//Store employee names from retrived data
+		//Store employee names from retrieved data
 		empNames[0] = employees.empName1;
 		empNames[1] = employees.empName2;
 		empNames[2] = employees.empName3;
 
-		//Store employee IDs from retrived data
+		//Store employee IDs from retrieved data
 		empIds[0] = employees.emp1Id;
 		empIds[1] = employees.emp2Id;
 		empIds[2] = employees.emp3Id;
